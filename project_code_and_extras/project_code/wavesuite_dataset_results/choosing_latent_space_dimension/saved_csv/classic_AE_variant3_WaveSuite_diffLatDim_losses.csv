@@ -1,0 +1,7 @@
+Model name,variants_name,final_validation_loss
+classic_AE_variant3,latDim32,0.0031910277903079987
+classic_AE_variant3,latDim64,0.0037273040506988764
+classic_AE_variant3,latDim128,0.0037528674583882093
+classic_AE_variant3,latDim256,0.003752871649339795
+classic_AE_variant3,latDim512,0.0037536683958023787
+classic_AE_variant3,latDim16,0.0120614692568779

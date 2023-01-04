@@ -1,0 +1,9 @@
+Model name,variants_name,final_validation_loss
+Model3,test1_variant3,0.0016821075696498156
+Model3,test1_variant6,0.004893793724477291
+Model3,test1_variant1,0.008854581974446774
+Model3,test1_variant2,0.009357273578643799
+Model3,test1_variant7,0.011427903547883034
+Model3,test1_variant4,0.01423082035034895
+Model3,test1_variant5,0.015472172759473324
+Model3,test1_variant8,0.2789855897426605

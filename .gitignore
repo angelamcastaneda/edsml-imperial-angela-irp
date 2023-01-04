@@ -1,0 +1,7 @@
+*.vtu
+*.zip
+*.npy
+*.pt
+*.eps
+*.pkl
+*.ipynb_checkpoints/

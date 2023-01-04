@@ -1,0 +1,5 @@
+Model name,variants_name,final_validation_loss
+AE Models Sigmoid output,GCN_AE_GCN,0.019811365753412247
+AE Models Sigmoid output,GCN_AE,0.020529955625534058
+AE Models Sigmoid output,classic_AE,0.02111225388944149
+AE Models Sigmoid output,GCN_pooling_AE,0.057319868355989456

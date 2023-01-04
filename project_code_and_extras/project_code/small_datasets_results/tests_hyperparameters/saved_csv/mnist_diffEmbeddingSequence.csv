@@ -1,0 +1,6 @@
+Model name,variants_name,final_validation_loss
+GCN-AE-GCN_sigmoid_output,GCN-AE-GCN_EmbSeq_2MiddleChannels,0.01935875043272972
+GCN-AE-GCN_sigmoid_output,GCN-AE-GCN_EmbSeq_1MiddleChannels,0.019868098199367523
+GCN-AE-GCN_sigmoid_output,GCN-AE-GCN_EmbSeq_4MiddleChannels,0.020357105880975723
+GCN-AE-GCN_sigmoid_output,GCN-AE-GCN_EmbSeq_8MiddleChannels,0.020392529666423798
+GCN-AE-GCN_sigmoid_output,classic_AE_Sequential,0.02111225388944149

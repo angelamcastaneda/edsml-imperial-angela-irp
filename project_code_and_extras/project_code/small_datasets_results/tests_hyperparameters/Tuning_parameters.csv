@@ -1,0 +1,35 @@
+Tuning_parameter,Dataset,Model name,parameter_value,final_validation_loss
+LatDim,air pollution,classic_AE,latDim64,0.0004
+LatDim,air pollution,classic_AE,latDim32,0.0011
+LatDim,air pollution,classic_AE,latDim16,0.0048
+LatDim,air pollution,classic_AE,latDim8,0.0106
+LatDim,air pollution,classic_AE,latDim4,0.0134
+LatDim,air pollution,classic_AE,latDim2,0.016
+LatDim,MNIST,GCN_AE_GCN,latDim32,0.0192
+LatDim,MNIST,GCN_AE_GCN,latDim64,0.0197
+LatDim,MNIST,GCN_AE_GCN,latDim16,0.0257
+LatDim,MNIST,GCN_AE_GCN,latDim8,0.0321
+LatDim,MNIST,GCN_AE_GCN,latDim4,0.0478
+LatDim,MNIST,GCN_AE_GCN,latDim2,0.0514
+EmbSeq,air pollution,GCN_AE,EmbSeq_8MiddleChannels,0.0008
+EmbSeq,air pollution,GCN_AE,EmbSeq_2MiddleChannels,0.0009
+EmbSeq,air pollution,GCN_AE,EmbSeq_4MiddleChannels,0.0009
+EmbSeq,air pollution,classic_AE,-,0.0011
+EmbSeq,air pollution,GCN_AE,EmbSeq_1MiddleChannel,0.0011
+EmbSeq,MNIST,GCN_AE_GCN,EmbSeq_2MiddleChannels,0.0194
+EmbSeq,MNIST,GCN_AE_GCN,EmbSeq_1MiddleChannels,0.0199
+EmbSeq,MNIST,GCN_AE_GCN,EmbSeq_4MiddleChannels,0.0204
+EmbSeq,MNIST,GCN_AE_GCN,EmbSeq_8MiddleChannels,0.0204
+EmbSeq,MNIST,classic_AE,-,0.0211
+BatchSize,air pollution,classic_AE,batchSize2,0.0003
+BatchSize,air pollution,classic_AE,batchSize4,0.0003
+BatchSize,air pollution,classic_AE,batchSize8,0.0004
+BatchSize,air pollution,classic_AE,batchSize16,0.0009
+BatchSize,air pollution,classic_AE,batchSize32,0.0011
+BatchSize,air pollution,classic_AE,batchSize64,0.0019
+BatchSize,MNIST,GCN_AE_GCN,batchSize16,0.0196
+BatchSize,MNIST,GCN_AE_GCN,batchSize8,0.0197
+BatchSize,MNIST,GCN_AE_GCN,batchSize32,0.0201
+BatchSize,MNIST,GCN_AE_GCN,batchSize2,0.0205
+BatchSize,MNIST,GCN_AE_GCN,batchSize4,0.0206
+BatchSize,MNIST,GCN_AE_GCN,batchSize64,0.0218

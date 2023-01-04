@@ -1,0 +1,7 @@
+variants_name,final_validation_loss
+classic_AE_latDim64,0.00038456293987110257
+classic_AE_latDim32,0.0010549287544563413
+classic_AE_latDim16,0.004775634966790676
+classic_AE_latDim8,0.010574250482022762
+classic_AE_latDim4,0.013445200398564339
+classic_AE_latDim2,0.015974385663866997

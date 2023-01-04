@@ -1,0 +1,4 @@
+Model name,variants_name,final_validation_loss
+GCN_AE_variant1,1middleChannel,0.0032301396131515503
+GCN_AE_variant1,2middleChannels,0.0034127214457839727
+GCN_AE_variant1,4middleChannels,0.0039168186485767365

@@ -1,0 +1,2 @@
+Model name,variants_name,final_validation_loss
+classic_AE_variant1,256latDim_extraLayer,0.0007554685580544174

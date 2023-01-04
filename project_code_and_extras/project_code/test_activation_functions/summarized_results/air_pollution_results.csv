@@ -1,0 +1,38 @@
+,Model name,Sequence of activation functions,final_validation_loss,ranking
+0,Model1,[ Sigmoid ],0.0014,3.0
+1,Model1,[ None ],0.0022,7.0
+2,Model1,[ RELU ],0.0429,30.0
+3,Model2, [ None Sigmoid ] ,0.0008,1.0
+4,Model2, [ RELU Sigmoid ] ,0.0011,2.0
+5,Model2, [ None None ] ,0.0021,6.0
+6,Model2, [ RELU None ] ,0.0056,10.0
+7,Model2, [ None RELU ] ,0.0395,29.0
+8,Model2, [ RELU RELU ] ,0.0538,31.0
+9,Model3, [ None None Sigmoid ] ,0.0017,4.0
+10,Model3, [ None RELU Sigmoid ] ,0.0049,8.0
+11,Model3, [ None None None ] ,0.0089,11.0
+12,Model3, [ None None RELU ] ,0.0094,12.0
+13,Model3, [ None Sigmoid None ] ,0.0114,13.0
+14,Model3, [ None RELU None ] ,0.0142,18.0
+15,Model3, [ None RELU RELU ] ,0.0155,19.0
+16,Model3, [ None Sigmoid RELU ] ,0.279,36.5
+17,Model3, [ RELU None Sigmoid ] ,0.0018,5.0
+18,Model3, [ RELU RELU Sigmoid ] ,0.0053,9.0
+19,Model3, [ RELU None RELU ] ,0.0116,14.0
+20,Model3, [ RELU None None ] ,0.0119,15.0
+21,Model3, [ RELU Sigmoid None ] ,0.0126,16.0
+22,Model3, [ RELU RELU RELU ] ,0.0128,17.0
+23,Model3, [ RELU RELU None ] ,0.0178,27.5
+24,Model3, [ RELU Sigmoid RELU ] ,0.279,36.5
+25,Model4,[ None RELU Sigmoid ] ,0.0157,20.0
+26,Model4,[ None None Sigmoid ] ,0.0161,21.5
+27,Model4,[ None RELU None ] ,0.017,24.0
+28,Model4,[ None None None ] ,0.0178,27.5
+29,Model4,[ None RELU RELU ] ,0.0911,32.0
+30,Model4,[ None None RELU ] ,0.0951,35.0
+31,Model4,[ RELU RELU Sigmoid ] ,0.0161,21.5
+32,Model4,[ RELU None Sigmoid ] ,0.0162,23.0
+33,Model4,[ RELU None None ] ,0.0173,25.5
+34,Model4,[ RELU RELU None ] ,0.0173,25.5
+35,Model4,[ RELU None RELU ] ,0.0912,33.0
+36,Model4,[ RELU RELU RELU ] ,0.0916,34.0

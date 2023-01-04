@@ -1,0 +1,7 @@
+variants_name,final_validation_loss
+classic_AE_batchSize2,0.0003181940992362797
+classic_AE_batchSize4,0.0003300662792753428
+classic_AE_batchSize8,0.0004327938368078321
+classic_AE_batchSize16,0.0009344266727566719
+classic_AE_batchSize32,0.0010549287544563413
+classic_AE_batchSize64,0.0019203374395146966

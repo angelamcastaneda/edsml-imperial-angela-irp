@@ -1,3 +1,10 @@
+
+This code corresponds to the IRP (independent Research Project) I presented to graduate from the MSc Environmental Data Science and Machine Learning (2021/2022) at Imperial College London. 
+
+The IRP is a project that takes 3 months to complete and the topic of the IRP was assigned to me by Dr Rossella Arcucci, a lecturer in Data Science and Machine Learning at Imperial College London. 
+
+# Machine Learning models (graph-AutoEncoders) for more Green, Sustainable, Clean Renewable Energy: application to Wave Energy Convertors (WECs)
+
 This project aims to produce the best possible AutoEncoder for a given dataset by evaluating the two following methods: a first approach on how to combine Graph Convolutional layers with traditional AutoEncoders on graphs that share the same adjacency matrix; and testing and analysing different combinations of activation functions commonly used in Neural Networks.
 
 For this matter, various functions were produced, and they are located in the subfolder "project_code_and_extras\project_code\auxiliary_scripts". All other subfolders from the folder "project_code_and_extras\project_code\" contain different jupyter notebooks that use the functions to test different models of AutoEncoders. 
